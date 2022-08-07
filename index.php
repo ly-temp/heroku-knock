@@ -2,4 +2,5 @@
   <input name="upload[]" type="file" multiple />
   <input type="submit" value="Send files" />
 </form>
-<a href="file_manage.php">download / manage</a>
+<a href="file_manage.php">download / manage</a><br>
+<a href="/log.txt">log</a>
