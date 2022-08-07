@@ -17,5 +17,6 @@
 ?>
 <br><br>
 <a href="/bulk_knock.php">all acsm to ebook</a><br>
+<a href="/get_full_url.php">get full url</a><br>
 <a href="/log.txt">log</a><br>
 <a href="/">back</a>
