@@ -1,5 +1,5 @@
 <?php
-  echo_folder("uploads");
+  echo_folder("uploads/");
 
   function echo_folder($folder){ 
     $output_file = shell_exec("ls ".$folder.' | tee '.substr($folder, 0, -1).'.list');
