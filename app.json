@@ -1,0 +1,16 @@
+{
+  "name": "Ubuntu Desktop noVNC HEROKU FREE VPS",
+  "description": "HEROKU VPS",
+  "repository": "https://github.com/laiyuantemp/developeranaz-heroku-vps-n-8f0901db8c3673a976ae20964cce47fe",
+  "logo": "https://avatars.githubusercontent.com/u/71500526?v=4",
+  "keywords": ["VPS", "HEROKU", "Free", "Firefox", "novnc", "VNC", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
+
+  "website": "",
+  "repository": "",
+  "stack": "heroku-20",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]  
+ }
